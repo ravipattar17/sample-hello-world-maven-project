@@ -22,6 +22,20 @@
     <sonar.language>java</sonar.language>
   </properties>
 
+<distributionManagement>
+
+  <repository>
+    <id>nexus-releases</id>
+    <url>http://65.2.6.5:8092/repository/hello-world-pkg/</url>
+  </repository>
+
+  <snapshotRepository>
+    <id>nexus-snapshots</id>
+    <url>http://65.2.6.5:8092/repository/hello-world-pkg-snapshot/</url>
+  </snapshotRepository>
+
+</distributionManagement>
+
   <dependencies>
     <dependency>
       <groupId>javax.servlet</groupId>
