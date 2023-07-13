@@ -6,7 +6,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>my-webapp</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
 
   <packaging>war</packaging>
 
@@ -18,7 +18,7 @@
     <sonar.login>sqp_3df7f28c6dc2cdf42a6e346094ec3e5289bc4267</sonar.login>
     <sonar.projectKey>Hello-World-app-test</sonar.projectKey>
     <sonar.projectName>Hello-World-app-test</sonar.projectName>
-    <sonar.projectVersion>1.0</sonar.projectVersion>
+    <sonar.projectVersion>1.1</sonar.projectVersion>
     <sonar.language>java</sonar.language>
   </properties>
 
