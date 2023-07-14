@@ -14,7 +14,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <!-- SonarQube properties -->
-    <sonar.host.url>http://65.2.6.5:8090</sonar.host.url>
+    <sonar.host.url>http://13.233.38.126:8090</sonar.host.url>
     <sonar.login>sqp_3df7f28c6dc2cdf42a6e346094ec3e5289bc4267</sonar.login>
     <sonar.projectKey>Hello-World-app-test</sonar.projectKey>
     <sonar.projectName>Hello-World-app-test</sonar.projectName>
@@ -26,12 +26,12 @@
 
   <repository>
     <id>nexus-releases</id>
-    <url>http://65.2.6.5:8092/repository/hello-world-pkg/</url>
+    <url>http://13.233.38.126:8092/repository/hello-world-pkg/</url>
   </repository>
 
   <snapshotRepository>
     <id>nexus-snapshots</id>
-    <url>http://65.2.6.5:8092/repository/hello-world-pkg-snapshot/</url>
+    <url>http://13.233.38.126:8092/repository/hello-world-pkg-snapshot/</url>
   </snapshotRepository>
 
 </distributionManagement>
