@@ -1,0 +1,13 @@
+web application will be accessible at the following URL:
+
+http://<tomcat_server_ip>:<tomcat_port>/my-webapp/hello
+
+
+Here, `` is the IP address of your Tomcat server, and `` is the port number on which Tomcat is running (usually 8080 by default).
+
+Assuming your Tomcat server is running on the same machine as the web application, you can access the web page using the following URL:
+
+http://localhost:8080/my-webapp/hello
+
+
+Make sure to replace `` and `` with the actual IP address and port number of your Tomcat server.
