@@ -15,7 +15,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <!-- SonarQube properties -->
     <sonar.host.url>http://13.233.38.126:8090</sonar.host.url>
-    <sonar.login>sqp_3df7f28c6dc2cdf42a6e346094ec3e5289bc4267</sonar.login>
+    <sonar.login>sqp_9b115360e5e310fc90f671b664a8eaa542cb8adf</sonar.login>
     <sonar.projectKey>Hello-World-app-test</sonar.projectKey>
     <sonar.projectName>Hello-World-app-test</sonar.projectName>
     <sonar.projectVersion>1.1</sonar.projectVersion>
