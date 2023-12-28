@@ -24,16 +24,7 @@
 
 <distributionManagement>
 
-  <repository>
-    <id>nexus-releases</id>
-    <url>http://13.233.38.126:8092/repository/hello-world-pkg/</url>
-  </repository>
-
-  <snapshotRepository>
-    <id>nexus-snapshots</id>
-    <url>http://13.233.38.126:8092/repository/hello-world-pkg-snapshot/</url>
-  </snapshotRepository>
-
+ 
 </distributionManagement>
 
   <dependencies>
