@@ -14,18 +14,13 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <!-- SonarQube properties -->
-    <sonar.host.url>http://52.66.250.7:9000</sonar.host.url>
+    <sonar.host.url>http://3.110.101.89:9000</sonar.host.url>
     <sonar.login>sqa_e2cadfecdc53e0c8e10894d6f53188ae8ffc368f</sonar.login>
-    <sonar.projectKey>Hello-World-app-test</sonar.projectKey>
-    <sonar.projectName>Hello-World-app-test</sonar.projectName>
+    <sonar.projectKey>hello</sonar.projectKey>
+    <sonar.projectName>hello</sonar.projectName>
     <sonar.projectVersion>1.1</sonar.projectVersion>
     <sonar.language>java</sonar.language>
   </properties>
-
-<distributionManagement>
-
- 
-</distributionManagement>
 
   <dependencies>
     <dependency>
@@ -50,3 +45,4 @@
   </build>
 
 </project>
+
